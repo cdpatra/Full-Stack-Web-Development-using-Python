@@ -1,0 +1,1 @@
+print('Solution of question number 3 of assignment 1')
